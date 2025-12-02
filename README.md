@@ -11,5 +11,5 @@ Alfonso X el Sabio
 
 ## Descripción:
 
-El proyecto tiene como objetivo desarrollar un modelo de regresión lineal predictivo que responda a esta pregunta de investigación [¿los pacientes con depresión más grave rEsponden mejor al tratamiento antidepresivo?]
+El proyecto tiene como objetivo desarrollar un modelo de regresión lineal predictivo que responda a esta pregunta de investigación [¿los pacientes con depresión más grave responden mejor al tratamiento antidepresivo?]
 
